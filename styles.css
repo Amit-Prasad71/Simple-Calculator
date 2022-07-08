@@ -9,11 +9,12 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 .title-text{
-  font-size: 3rem;
+  padding-top:2.5rem;
+  font-size: 1.75rem;
   text-align: center;
   letter-spacing: 2px;
   margin-bottom: 2rem;
-  color:blue;
+  color:yellow;
   font-weight: 550;
 }
 .input-field{

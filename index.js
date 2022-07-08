@@ -214,7 +214,7 @@ function result(value){
         return stack[stack.length-1];
     }
     else
-        return "Invalid String";
+        return "Invalid Expression";
 }
 function answer(){
   if(resultField.value != ""){
